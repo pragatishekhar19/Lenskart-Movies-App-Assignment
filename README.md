@@ -71,18 +71,31 @@ Tools & Platform
 📁 Project Structure
 
 lib/
+
 ├── main.dart
+
 ├── core/
+
 │ ├── constants/
+
 │ ├── theme/
+
 │ └── utils/
+
 ├── data/
+
 │ ├── models/
+
 │ ├── services/
+
 │ └── repositories/
+
 ├── presentation/
+
 │ ├── screens/
+
 │ ├── widgets/
+
 │ └── navigation/\
 
 This structure separates **UI, business logic, and data**, making the app scalable and easy to maintain.
