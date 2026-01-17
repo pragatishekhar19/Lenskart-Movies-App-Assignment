@@ -149,13 +149,3 @@ Original implementation
 Pragati Shekhar
 Mobile App Development Intern Applicant
 Lenskart
-
-
-✅ You are now READY to submit
-
-If you want, I can still help you with:
-- 🔥 Interview explanation of this project  
-- 🔥 What to say if asked *“Did you test it?”*  
-- 🔥 How to explain architecture confidently  
-
-Just tell me **“interview prep next”** 💪
