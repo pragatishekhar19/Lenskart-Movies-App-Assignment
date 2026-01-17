@@ -123,15 +123,22 @@ Add:
 const String tmdbApiKey = "YOUR_TMDB_API_KEY";
 5️⃣ Run the Application
 ✅ Option 1: Run on Chrome (No Emulator Needed)
+
 flutter run -d chrome
+
 ✅ Option 2: Build APK (Optional)
+
 flutter build apk
+
 📝 Commands Summary
+
 flutter doctor
 flutter pub get
 flutter run -d chrome
 flutter build apk
+
 📌 Assumptions & Notes
+
 No authentication implemented 
 Internet connection required for API calls
 Favourites & Watchlist stored locally
