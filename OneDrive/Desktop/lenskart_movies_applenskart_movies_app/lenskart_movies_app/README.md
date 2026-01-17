@@ -34,5 +34,5 @@ It allows users to:
 
 1. Clone this repository:
 ```bash
-git clone <repo-url>
+git clone https://github.com/pragatishekhar19/Lenskart-Movies-App-Assignment/tree/main/OneDrive/Desktop/lenskart_movies_applenskart_movies_app/lenskart_movies_app
 cd lenskart_movies_app
